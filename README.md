@@ -2,7 +2,7 @@
 
 ### Shiny Application
 
-Shiny Apps URL : [https://otyeung.shinyapps.io/developing-data-products/]:https://otyeung.shinyapps.io/developing-data-products/
+Shiny Apps URL : https://otyeung.shinyapps.io/developing-data-products/
 
 1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 2. Deploy the application on Rstudio's shiny server
